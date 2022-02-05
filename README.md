@@ -12,6 +12,8 @@
 Here, “1” is the number of people suffering from heart disease and “0” is the number of people who are not suffering from heart disease.
 Hence the number of people suffering from heart disease is “165” and the number of people not suffering from heart disease is “138”.
 
+Clearly, from this, we can assume that this is a classification problem with target variables having values “0” and “1”.
+
 
 ##### 2.
 ![image](https://user-images.githubusercontent.com/75883328/152658326-a9bd04b7-384c-4c52-a922-7d11d9b19a71.png)
